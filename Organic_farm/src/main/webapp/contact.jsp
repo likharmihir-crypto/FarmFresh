@@ -67,7 +67,7 @@
                             </div>
                             <div class="ps-3">
                                 <h5 class="text-white">Our Office</h5>
-                                <span class="text-white">123 Street, New York, USA</span>
+                                <span class="text-white">31/C Subhash Nagar,Indore,India</span>
                             </div>
                         </div>
                         <div class="d-flex mb-4">
@@ -76,7 +76,7 @@
                             </div>
                             <div class="ps-3">
                                 <h5 class="text-white">Email Us</h5>
-                                <span class="text-white">info@example.com</span>
+                                <span class="text-white">likharmihir@gmail.com</span>
                             </div>
                         </div>
                         <div class="d-flex">
@@ -85,7 +85,7 @@
                             </div>
                             <div class="ps-3">
                                 <h5 class="text-white">Call Us</h5>
-                                <span class="text-white">+012 345 6789</span>
+                                <span class="text-white">+91-9644044842</span>
                             </div>
                         </div>
                     </div>

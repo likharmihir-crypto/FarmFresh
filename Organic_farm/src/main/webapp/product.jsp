@@ -110,19 +110,22 @@
                             <i class="fa fa-seedling fs-4 text-white"></i>
                         </div>
                         <h4 class="text-white">100% Organic</h4>
-                        <p class="mb-0">Labore justo vero ipsum sit clita erat lorem magna clita</p>
+                        <p class="mb-0">All our vegetables and fruits are grown without harmful pesticides or artificial chemicals. We use natural compost and bio-fertilizers to maintain purity and nutrition.
+                        </p>
                     </div>
                     <div class="text-white">
                         <div class="bg-secondary rounded-pill d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
                             <i class="fa fa-award fs-4 text-white"></i>
                         </div>
                         <h4 class="text-white">Award Winning</h4>
-                        <p class="mb-0">Labore justo vero ipsum sit clita erat lorem magna clita</p>
+                        <p class="mb-0">Recognized locally for quality farming practices and consistent crop production. We maintain high standards in cultivation, harvesting, and packaging.
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="d-block bg-white h-100 text-center p-5 pb-lg-0">
-                        <p>At et justo elitr amet sea at. Magna et sit vero at ipsum sit et dolores rebum. Magna sea eos sit dolor, ipsum amet no tempor ipsum eirmod lorem eirmod diam tempor dolor eos diam et et diam dolor ea. Clita est rebum amet dolore sit. Dolor stet dolor duo clita, vero dolor ipsum amet dolore magna lorem erat stet sed vero dolor</p>
+                        <p>We provide fresh, chemical-free farm products grown using sustainable agricultural practices. Our focus is on soil health, natural fertilizers, and modern irrigation techniques to ensure high-quality crops. From farm to customer, we maintain hygiene, freshness, and timely delivery to promote a healthy lifestyle.
+                        </p>
                         <img class="img-fluid" src="img/feature.png" alt="">
                     </div>
                 </div>
@@ -132,14 +135,16 @@
                             <i class="fa fa-tractor fs-4 text-white"></i>
                         </div>
                         <h4 class="text-white">Modern Farming</h4>
-                        <p class="mb-0">Labore justo vero ipsum sit clita erat lorem magna clita</p>
+                        <p class="mb-0">We use drip irrigation, crop rotation, and soil monitoring techniques to increase productivity while conserving water and protecting the environment.
+                        </p>
                     </div>
                     <div class="text-white">
                         <div class="bg-secondary rounded-pill d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
                             <i class="fa fa-phone-alt fs-4 text-white"></i>
                         </div>
                         <h4 class="text-white">24/7 Support</h4>
-                        <p class="mb-0">Labore justo vero ipsum sit clita erat lorem magna clita</p>
+                        <p class="mb-0">Customers can contact us anytime for product availability, bulk orders, and delivery tracking. We ensure quick response and reliable service.
+                        </p>
                     </div>
                 </div>
             </div>

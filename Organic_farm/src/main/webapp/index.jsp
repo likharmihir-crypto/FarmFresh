@@ -100,7 +100,7 @@
                         <div class="col-sm-6">
                             <i class="fa fa-seedling display-1 text-secondary"></i>
                             <h4>100% Organic</h4>
-                            <p class="mb-0">Labore justo vero ipsum sit clita erat lorem magna clita nonumy dolor magna dolor vero</p>
+                            <p class="mb-0">All our vegetables and fruits are grown without harmful pesticides or artificial chemicals. We use natural compost and bio-fertilizers to maintain purity and nutrition.</p>
                         </div>
                         <div class="col-sm-6">
                             <i class="fa fa-award display-1 text-secondary"></i>
@@ -178,42 +178,48 @@
                         <h6 class="text-primary text-uppercase">Services</h6>
                         <h1 class="display-5">Organic Farm Services</h1>
                     </div>
-                    <p class="mb-4">Tempor erat elitr at rebum at at clita. Diam dolor diam ipsum et tempor sit. Clita erat ipsum et lorem et sit sed stet labore</p>
+                    <p class="mb-4">We offer a wide range of organic farming services including fresh produce supply, dairy products, farm consultation, and direct farm delivery. Our goal is to connect farmers and customers while promoting healthy and sustainable food habits.
+                    </p>
                     <a href="" class="btn btn-primary py-md-3 px-md-5">Contact Us</a>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item bg-light text-center p-5">
                         <i class="fa fa-carrot display-1 text-primary mb-3"></i>
                         <h4>Fresh Vegetables</h4>
-                        <p class="mb-0">Labore justo vero ipsum sit clita erat lorem magna clita nonumy dolor magna dolor vero</p>
+                        <p class="mb-0">Daily harvested seasonal vegetables grown without chemical fertilizers. We ensure freshness, hygiene, and rich nutritional value from farm to home.
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item bg-light text-center p-5">
                         <i class="fa fa-apple-alt display-1 text-primary mb-3"></i>
                         <h4>Fresh Fruits</h4>
-                        <p class="mb-0">Labore justo vero ipsum sit clita erat lorem magna clita nonumy dolor magna dolor vero</p>
+                        <p class="mb-0">Naturally ripened fruits cultivated using eco-friendly farming methods. No artificial ripening agents are used to maintain taste and quality.
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item bg-light text-center p-5">
                         <i class="fa fa-dog display-1 text-primary mb-3"></i>
-                        <h4>Healty Cattle</h4>
-                        <p class="mb-0">Labore justo vero ipsum sit clita erat lorem magna clita nonumy dolor magna dolor vero</p>
+                        <h4>Healthy Cattle</h4>
+                        <p class="mb-0">Our dairy animals are raised in clean and natural conditions and fed organic fodder. We provide pure milk and dairy products directly from the farm.
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item bg-light text-center p-5">
                         <i class="fa fa-tractor display-1 text-primary mb-3"></i>
-                        <h4>Modern Truck</h4>
-                        <p class="mb-0">Labore justo vero ipsum sit clita erat lorem magna clita nonumy dolor magna dolor vero</p>
+                        <h4>Modern Transport</h4>
+                        <p class="mb-0">Temperature-safe transportation ensures quick and damage-free delivery of farm products to customers and local markets.
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item bg-light text-center p-5">
                         <i class="fa fa-seedling display-1 text-primary mb-3"></i>
                         <h4>Farming Plans</h4>
-                        <p class="mb-0">Labore justo vero ipsum sit clita erat lorem magna clita nonumy dolor magna dolor vero</p>
+                        <p class="mb-0">We provide guidance for organic farming setup, crop selection, irrigation methods, and fertilizer planning for new and existing farmers.
+                        </p>
                     </div>
                 </div>
             </div>
